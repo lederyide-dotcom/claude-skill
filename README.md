@@ -5,6 +5,7 @@
 | Skill | 用途 |
 |---|---|
 | anti-todo-tw | 盤點工作並建立反待辦清單：AI 做的事與人做的事 |
+| frontier-proposal-tw | 頂尖作法提案：查限制、事前驗屍、跨領域移植、收斂成單一推薦 |
 | spec-handoff-tw | 規劃任務並產出交給 Claude Code 的 spec.md |
 | autonomous-dev-loop | 在 repo 內自主實作、驗證、回報 |
 | dev-orchestrator-tw | 多代理總指揮：拆任務、並行派工、驗收 |
